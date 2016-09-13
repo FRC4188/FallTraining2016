@@ -28,7 +28,7 @@ public class Robot extends IterativeRobot {
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
      */
-    System.out.println("Christine's message works ;)")
+    System.out.println("Christine")
     public void robotInit() {
 		RobotMap.init();
     	oi = new OI();
