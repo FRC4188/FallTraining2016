@@ -73,6 +73,7 @@ public class Robot extends IterativeRobot {
     System.out.println("Did you guys get this put your name below: ");
     System.out.println("Jacob"); 
     System.out.println("Pushed to the limit as x approaches 0");
+    System.out.println("Haha!");
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
