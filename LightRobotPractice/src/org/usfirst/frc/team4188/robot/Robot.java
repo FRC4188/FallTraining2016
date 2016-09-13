@@ -24,7 +24,7 @@ public class Robot extends IterativeRobot {
 	public static Sensors sensors;
 
     Command autonomousCommand;
-
+    System.out.println("Did you guys get this put your name below: ")
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
