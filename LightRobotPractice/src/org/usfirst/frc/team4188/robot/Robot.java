@@ -25,6 +25,7 @@ public class Robot extends IterativeRobot {
 
     Command autonomousCommand;
     System.out.println("Did you guys get this put your name below: ")
+    System.out.println("Haritha said yes")
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
