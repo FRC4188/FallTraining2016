@@ -1,6 +1,52 @@
 
 package org.usfirst.frc.team4188.robot;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
@@ -24,8 +70,8 @@ public class Robot extends IterativeRobot {
 	public static Sensors sensors;
 
     Command autonomousCommand;
-    System.out.println("Did you guys get this put your name below: ")
-    System.out.println("Haritha said yes")
+    System.out.println("Did you guys get this put your name below: ");
+    System.out.println("Jacob"); 
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
