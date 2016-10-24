@@ -37,7 +37,7 @@ public class RobotMap {
 	public static void init(){
 	
 		 lightRelay = new Relay(0);
-		
+		//My cat likes tuna...
 		
 		
 	}

@@ -70,12 +70,7 @@ public class Robot extends IterativeRobot {
 	public static Sensors sensors;
 
     Command autonomousCommand;
-    System.out.println("Did you guys get this put your name below: ");
-    System.out.println("Jacob"); 
-    System.out.println("Pushed to the limit as x approaches 0");
-    System.out.println("Haha!");
-    System.out.println("Dont delete me")
-    System.out.println("Please tell me that you can see this. -Christine")
+    System.out.println("Hallie was here");
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
