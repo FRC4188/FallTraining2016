@@ -22,7 +22,7 @@ public class RobotMap {
 <<<<<<< HEAD
 	
 	
-	//Carter's comment is better than yours
+	//Carter's comment is better than yours is
 =======
 	//Crystal was here111
 >>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
