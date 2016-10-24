@@ -24,7 +24,7 @@ public class RobotMap {
 	//I'm Haritha
 	//Hello again
 	//Hi 
-	//will it work
+	//will it work...
 	public static void init(){
 	
 		 lightRelay = new Relay(0);
