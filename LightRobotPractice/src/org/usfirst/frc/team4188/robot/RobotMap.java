@@ -19,14 +19,37 @@ public class RobotMap {
     // public static int rangefinderPort = 1;
     // public static int rangefinderModule = 1;
 	
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	
+	
+	//Carter's comment is better than yours is
+=======
+	//Crystal was here111
+>>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
+	
+	
+>>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
 	public static Relay lightRelay; //Creates a new Relay Spike used by the light.
 	
+<<<<<<< HEAD
 	
+=======
+	//I'm Haritha...
+	//Hello again
+	//Hi 
+	//will it work...
+>>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
 	public static void init(){
 	
 		 lightRelay = new Relay(0);
+<<<<<<< HEAD
 		 
 		 
+=======
+		//My cat likes tuna...
+>>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
 		
 		
 	}
