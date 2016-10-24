@@ -25,7 +25,7 @@ public class RobotMap {
 	public static void init(){
 	
 		 lightRelay = new Relay(0);
-		//programming
+		 
 		 
 		
 		
