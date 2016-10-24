@@ -19,16 +19,14 @@ public class RobotMap {
     // public static int rangefinderPort = 1;
     // public static int rangefinderModule = 1;
 	
-	//Crystal was here111
-	
-	
 	public static Relay lightRelay; //Creates a new Relay Spike used by the light.
 	
-	//I'm Haritha
+	
 	public static void init(){
 	
 		 lightRelay = new Relay(0);
-		
+		//programming
+		 
 		
 		
 	}
