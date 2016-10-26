@@ -40,6 +40,7 @@ public class RobotMap {
 	//Hello again
 	//Hi 
 	//will it work...
+	//idk
 >>>>>>> branch 'master' of https://github.com/FRC4188/FallTraining2016.git
 	public static void init(){
 	
